@@ -8,7 +8,7 @@ export default function Home() {
       <div className="flex flex-col lg:flex-row justify-between items-center bg-gray-100 px-4 lg:px-20 mx-4 lg:mx-10 rounded-lg py-10">
         <div className="text-center lg:text-left">
           <p className="bg-white text-3xl sm:text-4xl lg:text-6xl font-sans font-black w-fit mx-auto lg:mx-0">
-            LET'S
+            LET&apos;S
           </p>
           <p className="text-3xl sm:text-4xl lg:text-6xl font-sans font-black">EXPLORE</p>
           <p className="bg-[#ebc744] text-3xl sm:text-4xl lg:text-6xl font-sans font-black w-fit mx-auto lg:mx-0">
@@ -73,8 +73,8 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Young's Favorite */}
-      <h2 className="my-6 lg:my-10 px-4 lg:px-20 font-black font-sans text-xl sm:text-2xl">YOUNG'S FAVOURITE</h2>
+      {/* Young&apos;s Favorite */}
+      <h2 className="my-6 lg:my-10 px-4 lg:px-20 font-black font-sans text-xl sm:text-2xl">YOUNG&apos;S FAVOURITE</h2>
       <div className="flex flex-col lg:flex-row justify-between gap-6 px-4 lg:px-20">
         {[
           { src: "/Rectangle 50 (2).png", text: "Trending on Instagram" },
